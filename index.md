@@ -14,8 +14,9 @@ author: Hakki Can Karaimer
 
 ## Code and Documentation##
 
-Please read the documentation [here](),   
+Please read the documentation [here](https://docs.google.com/document/d/1WzeZ-9U4aTuwFpcX-8GgAy0wT9ERF41ltjr-jJ-NMCo/edit?usp=sharing),   
 Please download the code [here](https://github.com/karaimer/camera-pipeline-UI),   
+Please download the DNG SDK [here](https://github.com/karaimer/camera-pipeline-dng-sdk).   
 
 ## People ##
 [Hakki Can Karaimer](https://karaimer.github.io/), 	karaimer at u.nus.edu.sg
