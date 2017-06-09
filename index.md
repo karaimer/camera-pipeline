@@ -19,6 +19,6 @@ Please download the code [here](https://github.com/karaimer/camera-pipeline-UI),
 Please download the DNG SDK [here](https://github.com/karaimer/camera-pipeline-dng-sdk).   
 
 ## People ##
-[Hakki Can Karaimer](https://karaimer.github.io/), 	karaimer at u.nus.edu.sg
+[Hakki Can Karaimer](https://karaimer.github.io/), 	karaimer (at) eecs.yorku.ca
 
-[Michael S. Brown](https://www.comp.nus.edu.sg/~brown/), 	brown at comp.nus.edu.sg
+[Michael S. Brown](http://www.cse.yorku.ca/~mbrown/), 	mbrown (at) eecs.yorku.ca
