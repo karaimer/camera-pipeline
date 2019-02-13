@@ -12,7 +12,7 @@ author: Hakki Can Karaimer
 #### Publications: ####
 * Karaimer H.C., Brown M.S. (2016) "A Software Platform for Manipulating the Camera Imaging Pipeline", *European Conference on Computer Vision* (**ECCV`16**), Oct 2016 [[pdf]](./paper/Karaimer_Brown_ECCV16.pdf) [[bibtex]](./bib/karaimer_brown_ECCV16.bib) 
 
-## Code and Documentation##
+## Code and Documentation ##
 
 Please read the documentation [here](https://docs.google.com/document/d/1WzeZ-9U4aTuwFpcX-8GgAy0wT9ERF41ltjr-jJ-NMCo/edit?usp=sharing),   
 Please download the UI code [here](https://github.com/karaimer/camera-pipeline-UI),   
